@@ -1,0 +1,24 @@
+Joel Saindon
+CS 4760, Proj 4
+OSS
+
+Files that should be in this directory:
+	-main.c
+	-oss.c
+	-user.c
+	-info.h
+	-Makefile
+	-hidden .git directory
+	-this README
+
+Getting started: Type the command: make proj4
+	Files should compile and you should be left with 3 executables in the directory: proj4, oss, and user.
+
+Running proj4: please type the options in the order you see here: ./proj4 -s x -t z -l filename
+
+Things not implemented in this project:
+	-Logging
+	-Starting more processes on after other children have finished executing
+	-Timeout on alarm/signal handling to clean up memory
+
+While I appreciate the extension given, I struggled to find time in my work schedule to really work on this project. Rather than spin my wheels on this project, I'm going to continue on with the next one and work things out on the next one and not get too far behind as far as submitting projects. Again, I truly appreciate the extension but life kind of got in the way on this one.
